@@ -13,9 +13,7 @@ Also note that this repository is part of ContriHUB, MNNIT's first OpenSource ev
 Other repositories which are part of ContriHUB can be accessed here -
 [ContriHUB](https://github.com/ContriHUB/)
 
-**Make sure to get your GitHub Student Pack here:**
-
-[https://education.github.com/pack](https://education.github.com/pack)
+**Make sure to get your GitHub Student Pack here:** [https://education.github.com/pack](https://education.github.com/pack)
 
 
 ## What is ContriHUB?
@@ -42,10 +40,10 @@ if you want your PR to be approved. The correct formatting should be followed. W
 
 If you don't know what the above means , just keep reading ... you'll get there.
 
-**We will not be accepting more PR's until the formatting of the current files is fixed. Please fix those, referencing the issues present. Also note that the issues and the PR have common # numbers , so the first issue might not be #1 but could be #138 . Please check this before referencing the issue. Incorrect # numbers will not be merged.**
+We will not be accepting more PR's until the formatting of the current files is fixed. Please fix those, referencing the issues present. Also note that the issues and the PR have common # numbers , so the first issue might not be #1 but could be #138 . Please check this before referencing the issue. Incorrect # numbers will not be merged.
 
 ## How to contribute to this project
-Here are 4 quick and painless ways to contribute to this project:
+Here are 2 quick and painless ways to contribute to this project:
 
 - Add your name to the `CONTRIBUTORS.md` file
 - Add your entry to the `participant.html` file
