@@ -83,11 +83,23 @@ Add your name to the `CONTRIBUTORS.md` file using the below convention:
 ```
 
 ### 2. Add name inside HTML
-In the `index.html` file in the `site` directory, look for the 'ol' tag. Then insert a 'li' tag with your link to your profile. Here is an example:
+
+Firstly add your profile picture in 'profile' directory present under 'img' directory. Then in the `participant.html` file, look for the 'div' which contains the sample participant info. Then insert a new 'div' inside it with your profile details, in the format shown below -
 
 ```html
-<li><a href ="[link to your page]">[user name here]</a></li>
+<div class="col-auto" style="margin-bottom: 75px">
+    <div class="card" style="width: 300px">
+        <img class="card-img-top" src="{Link To Your Image}" alt="Card image">
+        <div class="card-body">
+            <h4 class="card-title">{Your Name}</h4>
+            <p class="card-text">{Your Bio}</p>
+            <a href="{Link To Your Github Profile}" class="btn btn-primary">See Profile</a>
+        </div>
+    </div>
+</div>
 ```
+
+Please do not remove the sample participant info otherwise your Pull Request will not be merged.
 
 ## Reference links
 Here is a great tutorial for creating your first pull request by [Roshan Jossey](https://github.com/Roshanjossey):
@@ -107,7 +119,9 @@ Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/
 
 For any query head on to dedicated Gitter Channel - [ContriHUB](https://gitter.im/ContriHUB/Lobby#)
 
-If still you have more doubts then feel free to ping any of the following student co-ordinator -
+If you still have more doubts then feel free to ping any of the student co-ordinator. 
+
+Coordinators - 
 
 - [Abhey Rana](https://github.com/Abhey)
 
