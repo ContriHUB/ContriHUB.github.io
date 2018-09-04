@@ -8,7 +8,7 @@ Join us by getting involved in the open source community solving some interestin
 
 This repository is open to all students of MNNIT.
 
-Also note that this repository is part of ContriHUB, MNNIT's first OpenSource event in Avishkar :joy:
+Also note that this repository is part of ContriHUB, MNNIT's first OpenSource event in Avishkar :smiley:
 
 Other repositories which are part of ContriHUB can be accessed here -
 [ContriHUB](https://github.com/ContriHUB/)
@@ -104,8 +104,13 @@ Checkout this list for README examples - Awesome README [![Awesome](https://cdn.
 Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
  
 ## Contacts
-[Abhey Rana](https://github.com/Abhey)
 
-[Akshay Sharma](https://github.com/akshay31057) 
+For any query head on to dedicated Gitter Channel - [ContriHUB](https://gitter.im/ContriHUB/Lobby#)
+
+If still you have more doubts then feel free to ping any of the following student co-ordinator -
+
+- [Abhey Rana](https://github.com/Abhey)
+
+- [Akshay Sharma](https://github.com/akshay31057) 
  
-[Deepak Bharti](https://github.com/dbads)
+- [Deepak Bharti](https://github.com/dbads)
