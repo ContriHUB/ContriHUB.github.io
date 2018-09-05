@@ -10,5 +10,5 @@
 
 ### Name: [Deepak Bharti](https://github.com/dbads)
 - Place: Allahbad, Uttar Pradesh
-- Bio: CSE @MNNIT'19 | @hohos | Looking forward for a role in a startup
+- Bio: CSE @MNNIT'19 | @hohos | I have an Idea <i class="fa fa-smile fa-1x"></i>
 - Github: [dbads](https://github.com/dbads)
