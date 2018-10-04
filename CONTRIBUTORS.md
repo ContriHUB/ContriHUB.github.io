@@ -23,6 +23,11 @@
 - Bio: CSE @BIT Mesra'20 | Learning new things
 - Github: [aayushsinha44](https://github.com/aayushsinha44)
 
+### Name: [Pranav Bhardwaj](https://github.com/pranav1999)
+- Place: New Delhi, India
+- Bio: Curious Learner
+- Github: [pranav1999](https://github.com/pranav1999)
+
 ### Name: [Vaibhav D. Aren](www.codeuino.org)
 - Place: Lucknow, Uttar Pradesh
 - Bio: Software Developer 
