@@ -28,6 +28,11 @@
 - Bio: CSE @BIT Mesra'20 | Learning new things
 - Github: [aayushsinha44](https://github.com/aayushsinha44)
 
+### Name: [Jose Luis](https://github.com/0c0de)
+- Place: Murcia, Spain
+- Bio: Crack things :smiley: 
+- Github: [0c0de](https://github.com/0c0de)
+
 ### Name: [Pranav Bhardwaj](https://github.com/pranav1999)
 - Place: New Delhi, India
 - Bio: Curious Learner
