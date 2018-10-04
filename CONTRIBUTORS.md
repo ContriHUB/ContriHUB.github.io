@@ -17,3 +17,8 @@
 - Place: Ranchi, Jharkhand
 - Bio: CSE @BIT Mesra'20 | Learning new things
 - Github: [aayushsinha44](https://github.com/aayushsinha44)
+
+### Name: [David Gutierrez](https://github.com/gvandre)
+- Place: Ranchi, Jharkhand
+- Bio: I am a fullstack jhunior. Interested in learning new things. 
+- Github: [gvandre](https://github.com/gvandre)
