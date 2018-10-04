@@ -17,3 +17,8 @@
 - Place: Ranchi, Jharkhand
 - Bio: CSE @BIT Mesra'20 | Learning new things
 - Github: [aayushsinha44](https://github.com/aayushsinha44)
+
+### Name: [Vaibhav D. Aren](www.codeuino.org)
+- Place: Lucknow, Uttar Pradesh
+- Bio: Software Developer 
+- Github: [vaibhavdaren](https://github.com/vaibhavdaren)
