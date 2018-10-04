@@ -17,3 +17,8 @@
 - Place: Ranchi, Jharkhand
 - Bio: CSE @BIT Mesra'20 | Learning new things
 - Github: [aayushsinha44](https://github.com/aayushsinha44)
+
+### Name: [Nithin Raj](https://github.com/nithinr07)
+- Place: Bangalore, Karnataka
+- Bio: ECE @IIIT Bangalore'22 | Aspiring web developer
+- Github: [nithinr07](https://github.com/nithinr07)
