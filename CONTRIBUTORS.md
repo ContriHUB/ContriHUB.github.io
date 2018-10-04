@@ -17,3 +17,7 @@
 - Place: Ranchi, Jharkhand
 - Bio: CSE @BIT Mesra'20 | Learning new things
 - Github: [aayushsinha44](https://github.com/aayushsinha44)
+
+### Name: [Kirankumar Ambati](https://github.com/kirankumarambati)
+- Place: Hyderabad, India
+- Passion: Frontend Development
