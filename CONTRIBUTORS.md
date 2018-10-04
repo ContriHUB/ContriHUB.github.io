@@ -17,3 +17,32 @@
 - Place: Karachi, Pakistan
 - Bio: MERN Stack Developer
 - Github: [aayanqazi](https://github.com/aayanqazi)
+
+### Name: [Austin Yuan](https://github.com/TheEducatedPickle)
+- Place: California, USA
+- Bio: 2nd year CS student at UC Santa Cruz
+- Github: [The Educated Pickle](https://github.com/TheEducatedPickle)
+
+### Name: [Aayush Sinha](https://github.com/aayushsinha44)
+- Place: Ranchi, Jharkhand
+- Bio: CSE @BIT Mesra'20 | Learning new things
+- Github: [aayushsinha44](https://github.com/aayushsinha44)
+
+### Name: [Pranav Bhardwaj](https://github.com/pranav1999)
+- Place: New Delhi, India
+- Bio: Curious Learner
+- Github: [pranav1999](https://github.com/pranav1999)
+
+### Name: [Vaibhav D. Aren](www.codeuino.org)
+- Place: Lucknow, Uttar Pradesh
+- Bio: Software Developer 
+- Github: [vaibhavdaren](https://github.com/vaibhavdaren)
+
+### Name: [Nithin Raj](https://github.com/nithinr07)
+- Place: Bangalore, Karnataka
+- Bio: ECE @IIIT Bangalore'22 | Aspiring web developer
+- Github: [nithinr07](https://github.com/nithinr07)
+
+### Name: [Kirankumar Ambati](https://github.com/kirankumarambati)
+- Place: Hyderabad, India
+- Passion: Frontend Development
