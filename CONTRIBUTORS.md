@@ -12,3 +12,8 @@
 - Place: Allahbad, Uttar Pradesh
 - Bio: CSE @MNNIT'19 | @hohos | I have an Idea :smiley:
 - Github: [dbads](https://github.com/dbads)
+
+### Name: [Austin Yuan](https://github.com/TheEducatedPickle)
+- Place: California, USA
+- Bio: 2nd year CS student at UC Santa Cruz
+- Github: [The Educated Pickle](https://github.com/TheEducatedPickle)
