@@ -13,6 +13,11 @@
 - Bio: CSE @MNNIT'19 | @hohos | I have an Idea :smiley:
 - Github: [dbads](https://github.com/dbads)
 
+### Name: [Arsalan Sabir](https://github.com/aayanqazi)
+- Place: Karachi, Pakistan
+- Bio: MERN Stack Developer
+- Github: [aayanqazi](https://github.com/aayanqazi)
+
 ### Name: [Austin Yuan](https://github.com/TheEducatedPickle)
 - Place: California, USA
 - Bio: 2nd year CS student at UC Santa Cruz
