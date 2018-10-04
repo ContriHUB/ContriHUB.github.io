@@ -12,3 +12,8 @@
 - Place: Allahbad, Uttar Pradesh
 - Bio: CSE @MNNIT'19 | @hohos | I have an Idea :smiley:
 - Github: [dbads](https://github.com/dbads)
+
+### Name: [Aayush Sinha](https://github.com/aayushsinha44)
+- Place: Ranchi, Jharkhand
+- Bio: CSE @BIT Mesra'20 | Learning new things
+- Github: [aayushsinha44](https://github.com/aayushsinha44)
