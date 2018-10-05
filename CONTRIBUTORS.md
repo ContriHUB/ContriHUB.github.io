@@ -17,3 +17,8 @@
 - Place: Ranchi, Jharkhand
 - Bio: CSE @BIT Mesra'20 | Learning new things
 - Github: [aayushsinha44](https://github.com/aayushsinha44)
+
+### Name: [Ricardo](https://github.com/ricardo-larosa)
+- Place: Dublin, Ireland
+- Bio: Minimalist.
+- Github: [ricardo-larosa](https://github.com/aayushsinha44)
