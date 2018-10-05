@@ -51,3 +51,8 @@
 ### Name: [Kirankumar Ambati](https://github.com/kirankumarambati)
 - Place: Hyderabad, India
 - Passion: Frontend Development
+
+### Name: [Ricardo](https://github.com/ricardo-larosa)
+- Place: Dublin, Ireland
+- Bio: Minimalist.
+- Github: [ricardo-larosa](https://github.com/aayushsinha44)
