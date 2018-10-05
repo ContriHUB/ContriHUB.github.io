@@ -52,7 +52,7 @@
 - Place: Hyderabad, India
 - Passion: Frontend Development
 
-### Name: [Ricardo](https://github.com/ricardo-larosa)
+### Name: [Ricardo La Rosa](https://github.com/ricardo-larosa)
 - Place: Dublin, Ireland
 - Bio: Minimalist.
-- Github: [ricardo-larosa](https://github.com/aayushsinha44)
+- Github: [ricardo-larosa](https://github.com/ricardo-larosa)
