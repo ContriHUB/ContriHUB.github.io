@@ -51,3 +51,7 @@
 ### Name: [Kirankumar Ambati](https://github.com/kirankumarambati)
 - Place: Hyderabad, India
 - Passion: Frontend Development
+
+### Name: [Sean Chambers](https://github.com/schambers)
+- Place: Austin, Texas
+- Bio: Engineering Manager
