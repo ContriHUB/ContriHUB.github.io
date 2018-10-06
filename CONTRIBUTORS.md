@@ -51,3 +51,7 @@
 ### Name: [Kirankumar Ambati](https://github.com/kirankumarambati)
 - Place: Hyderabad, India
 - Passion: Frontend Development
+### Name: [Kunal Sevkani]
+- Place: Jaipur, Rajasthan
+- Bio: Android Developer and Gaming Enthusiast
+- Github: [kunalmnnit](https://github.com/kunalmnnit)
