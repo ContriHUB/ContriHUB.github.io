@@ -51,3 +51,8 @@
 ### Name: [Kirankumar Ambati](https://github.com/kirankumarambati)
 - Place: Hyderabad, India
 - Passion: Frontend Development
+
+### Name: [Om Raj](https://github.com/breakit1234)
+- Place: Allahabad, UP, India
+- Bio: IT Ungergrad @MNNIT'20 && Loves to learn new stuffs.
+- GitHub: [breakit1234](https://github.com/breakit1234)
