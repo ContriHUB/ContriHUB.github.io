@@ -51,3 +51,8 @@
 ### Name: [Kirankumar Ambati](https://github.com/kirankumarambati)
 - Place: Hyderabad, India
 - Passion: Frontend Development
+
+### Name: [Kashyap Nasit](https://github.com/KashyapNasit)
+- Place: Rajkot, Gujarat
+- Bio: Software Developer by night and fun lover by day ;)
+- Github: [KashyapNasit](https://github.com/KashyapNasit)
