@@ -51,3 +51,8 @@
 ### Name: [Kirankumar Ambati](https://github.com/kirankumarambati)
 - Place: Hyderabad, India
 - Passion: Frontend Development
+
+### Name: [Dawid Kozak](https://github.com/StudentDawid)
+- Place: Bialystok, Poland
+- Bio: Frontend developer
+- Github: [StudentDawid](https://github.com/StudentDawid)
