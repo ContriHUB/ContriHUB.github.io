@@ -51,3 +51,8 @@
 ### Name: [Kirankumar Ambati](https://github.com/kirankumarambati)
 - Place: Hyderabad, India
 - Passion: Frontend Development
+
+### Name: [Divyanshu Maurya](https://github.com/divyanshu1610)
+- Place: Lucknow , Uttar Pradesh
+- Bio: CSE @MNNIT ALLAHABAD'21 | Exploring new things :)
+- Github: [divyanshu1610](https://github.com/divyanshu1610)
