@@ -51,3 +51,10 @@
 ### Name: [Kirankumar Ambati](https://github.com/kirankumarambati)
 - Place: Hyderabad, India
 - Passion: Frontend Development
+
+### Name: [Sahaj Bamba](https://github.com/Sahaj-Bamba)
+- Place: Rudrapur, Uttarakhand
+- Bio: Explorer 
+- Github: [Sahaj](https://github.com/Sahaj-Bamba)
+
+
