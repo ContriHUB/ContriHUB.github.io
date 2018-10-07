@@ -51,3 +51,8 @@
 ### Name: [Kirankumar Ambati](https://github.com/kirankumarambati)
 - Place: Hyderabad, India
 - Passion: Frontend Development
+
+### Name: [Abhishek Kumar Singh](https://kumarabh494.wixsite.com/abhishekkumarsingh)
+- Place: Shaktinagar, Sonbhadra, Uttar Pradesh
+- Bio: Developer and Data Science Enthusiast
+- Github: [Abhishek1103](https://github.com/Abhishek1103)
