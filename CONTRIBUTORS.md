@@ -51,3 +51,10 @@
 ### Name: [Kirankumar Ambati](https://github.com/kirankumarambati)
 - Place: Hyderabad, India
 - Passion: Frontend Development
+
+### Name: [Suraj Goel](https://github.com/suraj-goel)
+- Place: Haryana, India :smiley:
+- Passion: software developer
+- Github: [suraj-goel](https://github.com/suraj-goel)
+
+
