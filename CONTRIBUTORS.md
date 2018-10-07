@@ -51,3 +51,8 @@
 ### Name: [Kirankumar Ambati](https://github.com/kirankumarambati)
 - Place: Hyderabad, India
 - Passion: Frontend Development
+
+### Name: [Saket Kumar](https://github.com/saket1999)
+- Place: Allahabad, Uttar Pradesh
+- Bio: Just a learner
+- Github: [saket1999](https://github.com/saket1999)
