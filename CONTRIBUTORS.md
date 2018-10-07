@@ -30,7 +30,7 @@
 
 ### Name: [Jose Luis](https://github.com/0c0de)
 - Place: Murcia, Spain
-- Bio: Crack things :smiley: 
+- Bio: Crack things :smiley:
 - Github: [0c0de](https://github.com/0c0de)
 
 ### Name: [Pranav Bhardwaj](https://github.com/pranav1999)
@@ -40,7 +40,7 @@
 
 ### Name: [Vaibhav D. Aren](www.codeuino.org)
 - Place: Lucknow, Uttar Pradesh
-- Bio: Software Developer 
+- Bio: Software Developer
 - Github: [vaibhavdaren](https://github.com/vaibhavdaren)
 
 ### Name: [Nithin Raj](https://github.com/nithinr07)
@@ -51,3 +51,8 @@
 ### Name: [Kirankumar Ambati](https://github.com/kirankumarambati)
 - Place: Hyderabad, India
 - Passion: Frontend Development
+
+### Name: [Ranjeet Kumar](https://github.com/rkranjeet)
+- Place: New Delhi , India
+- Bio: Beginner But Hard Learner
+- Github: [Rana321](https://github.com/rkranjeet)
