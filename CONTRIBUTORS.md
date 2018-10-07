@@ -54,7 +54,7 @@
 
 ### Name: [Sahaj Bamba](https://github.com/Sahaj-Bamba)
 - Place: Rudrapur, Uttarakhand
-- Bio: Explorer 
+- Bio: Explorer and Game Developer
 - Github: [Sahaj](https://github.com/Sahaj-Bamba)
 
 
