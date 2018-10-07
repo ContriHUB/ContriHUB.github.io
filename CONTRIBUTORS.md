@@ -51,3 +51,8 @@
 ### Name: [Kirankumar Ambati](https://github.com/kirankumarambati)
 - Place: Hyderabad, India
 - Passion: Frontend Development
+
+### Name: [Sandhya Kakarlamudi](https://github.com/saisandhya3198)
+- Place: Vizag, Andhra Pradesh
+- Bio: Reader, Coder and Enthusiast
+- Github: [Abhey](https://github.com/saisandhya3198)
