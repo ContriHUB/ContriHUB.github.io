@@ -12,3 +12,22 @@
 - Place: Allahbad, Uttar Pradesh
 - Bio: CSE @MNNIT'19 | @hohos | I have an Idea :smiley:
 - Github: [dbads](https://github.com/dbads)
+
+### Name: [Aayush Sinha](https://github.com/aayushsinha44)
+- Place: Ranchi, Jharkhand
+- Bio: CSE @BIT Mesra'20 | Learning new things
+- Github: [aayushsinha44](https://github.com/aayushsinha44)
+
+### Name: [David Gutierrez](https://github.com/gvandre)
+- Place: Ranchi, Jharkhand
+- Bio: I am a fullstack jhunior. Interested in learning new things. 
+- Github: [gvandre](https://github.com/gvandre)
+
+### Name: [Nithin Raj](https://github.com/nithinr07)
+- Place: Bangalore, Karnataka
+- Bio: ECE @IIIT Bangalore'22 | Aspiring web developer
+- Github: [nithinr07](https://github.com/nithinr07)
+
+### Name: [Kirankumar Ambati](https://github.com/kirankumarambati)
+- Place: Hyderabad, India
+- Passion: Frontend Development
