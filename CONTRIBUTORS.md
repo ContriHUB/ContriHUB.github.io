@@ -18,6 +18,11 @@
 - Bio: IT Ungergrad @MNNIT'20 && Loves to learn new stuffs.
 - GitHub: [breakit1234](https://github.com/breakit1234)
 
+### Name: [Kunal Sevkani]
+- Place: Jaipur, Rajasthan
+- Bio: Android Developer and Gaming Enthusiast
+- Github: [kunalmnnit](https://github.com/kunalmnnit)
+
 #### Name: [Rohit Raj Anand](https://github.com/rht6226)
 - Place: Allahabad, UP, India
 - Bio: Shophomore | ECE| MNNIT 
