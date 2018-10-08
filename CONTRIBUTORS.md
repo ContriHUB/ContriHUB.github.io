@@ -73,6 +73,11 @@
 - Bio: Web Development, Competitive Coding, Music | Dhokla and Fafda are love :yum: :grin:
 - GitHub: [jarvisdev](https://github.com/jarvisdev)
 
+#### Name: [Kartik Mahendru](https://github.com/kartikMahendru)
+- Place: Meerut, Uttar Pradesh, India
+- Bio: Android Development, Competitive Coding, Drama | Rajma and Chawal are love :octocat:
+- GitHub: [kartikMahendru](https://github.com/kartikMahendru)
+
 ### Name: [Abhishek Kumar](https://github.com/abhi1358)
 - Place: Allahabad, UP, India
 - Bio: Sort of exploring new Fields!
