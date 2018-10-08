@@ -82,3 +82,9 @@
 - Place: Allahabad, UP, India
 - Bio: Sort of exploring new Fields!
 - GitHub: [abhi1358](https://github.com/abhi1358)
+
+#### Name: [Shruti Jagwani](https://github.com/shruti8019)
+- Place: Allahabad, Uttar Pradesh, India
+- Bio: Android Developer and Machine Learning Enthusiast 
+- GitHub: [Shruti](https://github.com/shruti8019)
+
