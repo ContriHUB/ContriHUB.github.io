@@ -23,6 +23,11 @@
 - Bio: Explorer and Game Developer
 - Github: [Sahaj](https://github.com/Sahaj-Bamba)
 
+### Name: [Divyanshu Maurya](https://github.com/divyanshu1610)
+- Place: Lucknow , Uttar Pradesh
+- Bio: CSE @MNNIT ALLAHABAD'21 | Exploring new things :)
+- Github: [divyanshu1610](https://github.com/divyanshu1610)
+
 ### Name: [Suraj Goel](https://github.com/suraj-goel)
 - Place: Allahbad, Uttar Pradesh
 - Bio: CSE @MNNIT'21 | Loves dev. |  :smiley:
