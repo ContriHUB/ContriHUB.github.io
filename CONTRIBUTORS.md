@@ -72,3 +72,9 @@
 - Place: Bhavnagar, Gujarat, India
 - Bio: Web Development, Competitive Coding, Music | Dhokla and Fafda are love :yum: :grin:
 - GitHub: [jarvisdev](https://github.com/jarvisdev)
+
+#### Name: [Shruti Jagwani]( https://github.com/shruti8019)
+- Place: Allahabad, Uttar Pradesh, India
+- Bio: IT @MNNIT’20 | Android Application Developer and Machine Learning Enthusiast
+- GitHub: [shruti]( https://github.com/shruti8019)
+
