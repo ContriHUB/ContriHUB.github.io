@@ -13,6 +13,10 @@
 - Bio: CSE @MNNIT'19 | @hohos | I have an Idea :smiley:
 - Github: [dbads](https://github.com/dbads)
 
+### Name: [Ranjeet Kumar](https://github.com/rkranjeet)
+- Place: New Delhi , India
+- Bio: Beginner But Hard Learner
+- Github: [Rana321](https://github.com/rkranjeet)
 
 ### Name: [Suraj Goel](https://github.com/suraj-goel)
 - Place: Allahbad, Uttar Pradesh
