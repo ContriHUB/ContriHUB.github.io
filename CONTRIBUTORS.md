@@ -13,7 +13,13 @@
 - Bio: CSE @MNNIT'19 | @hohos | I have an Idea :smiley:
 - Github: [dbads](https://github.com/dbads)
 
+
 ### Name: [Suraj Goel](https://github.com/suraj-goel)
 - Place: Allahbad, Uttar Pradesh
 - Bio: CSE @MNNIT'21 | Loves dev. |  :smiley:
 - Github: [suraj-goel](https://github.com/suraj-goel)
+
+#### Name: [Surbhit Awasthi](https://github.com/surbhitawasthi)
+- Place: Lucknow, Uttar Pradesh, India
+- Bio: Java, Linux, Networking is Life | :pizza: is love
+- GitHub: [surbhitawasthi](https://github.com/surbhitawasthi)
