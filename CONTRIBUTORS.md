@@ -62,3 +62,8 @@
 - Place: Lucknow, Uttar Pradesh, India
 - Bio: Java, Linux, Networking is Life | :pizza: is love
 - GitHub: [surbhitawasthi](https://github.com/surbhitawasthi)
+
+#### Name: [Milan Bavishi](https://github.com/jarvisdev)
+- Place: Bhavnagar, Gujarat, India
+- Bio: Web Development, Competitive Coding, Music | Dhokla and Fafda are love :yum: :grin:
+- GitHub: [jarvisdev](https://github.com/jarvisdev)
