@@ -12,3 +12,8 @@
 - Place: Allahbad, Uttar Pradesh
 - Bio: CSE @MNNIT'19 | @hohos | I have an Idea :smiley:
 - Github: [dbads](https://github.com/dbads)
+
+### Name: [Suraj Goel](https://github.com/suraj-goel)
+- Place: Allahbad, Uttar Pradesh
+- Bio: CSE @MNNIT'21 | Loves dev. |  :smiley:
+- Github: [suraj-goel](https://github.com/suraj-goel)
