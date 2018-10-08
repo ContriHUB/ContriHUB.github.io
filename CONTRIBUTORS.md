@@ -23,6 +23,11 @@
 - Bio: CSE @MNNIT'21 | Loves dev. |  :smiley:
 - Github: [suraj-goel](https://github.com/suraj-goel)
 
+### Name: [Abhishek Kumar Singh](https://kumarabh494.wixsite.com/abhishekkumarsingh)
+- Place: Shaktinagar, Sonbhadra, Uttar Pradesh
+- Bio: Developer and Data Science Enthusiast
+- Github: [Abhishek1103](https://github.com/Abhishek1103)
+
 #### Name: [Surbhit Awasthi](https://github.com/surbhitawasthi)
 - Place: Lucknow, Uttar Pradesh, India
 - Bio: Java, Linux, Networking is Life | :pizza: is love
