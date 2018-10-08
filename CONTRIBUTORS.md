@@ -72,3 +72,8 @@
 - Place: Bhavnagar, Gujarat, India
 - Bio: Web Development, Competitive Coding, Music | Dhokla and Fafda are love :yum: :grin:
 - GitHub: [jarvisdev](https://github.com/jarvisdev)
+
+#### Name: [Kartik Mahendru](https://github.com/kartikMahendru)
+- Place: Meerut, Uttar Pradesh, India
+- Bio: Android Development, Competitive Coding, Drama | Rajma and Chawal are love :octocat:
+- GitHub: [kartikMahendru](https://github.com/kartikMahendru)
