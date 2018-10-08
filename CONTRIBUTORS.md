@@ -13,6 +13,11 @@
 - Bio: CSE @MNNIT'19 | @hohos | I have an Idea :smiley:
 - Github: [dbads](https://github.com/dbads)
 
+### Name: [Ashwini  Ojha](https://github.com/ashwini571)
+- Place: Allahbad, Uttar Pradesh
+- Bio: A Web Developer,A day-dreamer;Personality-type:NULL
+- Github: [ashwini571](https://github.com/ashwini571)
+
 ### Name: [Om Raj](https://github.com/breakit1234)
 - Place: Allahabad, UP, India
 - Bio: IT Ungergrad @MNNIT'20 && Loves to learn new stuffs.
