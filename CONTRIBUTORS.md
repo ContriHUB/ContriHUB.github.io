@@ -72,3 +72,8 @@
 - Place: Bhavnagar, Gujarat, India
 - Bio: Web Development, Competitive Coding, Music | Dhokla and Fafda are love :yum: :grin:
 - GitHub: [jarvisdev](https://github.com/jarvisdev)
+
+### Name: [Abhishek Kumar](https://github.com/abhi1358)
+- Place: Allahabad, UP, India
+- Bio: Sort of exploring new Fields!
+- GitHub: [abhi1358](https://github.com/abhi1358)
