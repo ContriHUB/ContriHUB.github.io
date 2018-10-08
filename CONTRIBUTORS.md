@@ -18,6 +18,11 @@
 - Bio: Beginner But Hard Learner
 - Github: [Rana321](https://github.com/rkranjeet)
 
+### Name: [Sahaj Bamba](https://github.com/Sahaj-Bamba)
+- Place: Rudrapur, Uttarakhand
+- Bio: Explorer and Game Developer
+- Github: [Sahaj](https://github.com/Sahaj-Bamba)
+
 ### Name: [Suraj Goel](https://github.com/suraj-goel)
 - Place: Allahbad, Uttar Pradesh
 - Bio: CSE @MNNIT'21 | Loves dev. |  :smiley:
