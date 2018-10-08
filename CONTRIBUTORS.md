@@ -75,6 +75,6 @@
 
 #### Name: [Shruti Jagwani]( https://github.com/shruti8019)
 - Place: Allahabad, Uttar Pradesh, India
-- Bio: IT @MNNIT’20 | Android Application Developer and Machine Learning Enthusiast
+- Bio: Android Application Developer and Machine Learning Enthusiast
 - GitHub: [shruti]( https://github.com/shruti8019)
 
