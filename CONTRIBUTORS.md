@@ -28,6 +28,11 @@
 - Bio: Explorer and Game Developer
 - Github: [Sahaj](https://github.com/Sahaj-Bamba)
 
+### Name: [Kashyap Nasit](https://github.com/KashyapNasit)
+- Place: Rajkot, Gujarat
+- Bio: Software Developer by night and fun lover by day ;)
+- Github: [KashyapNasit](https://github.com/KashyapNasit)
+
 ### Name: [Divyanshu Maurya](https://github.com/divyanshu1610)
 - Place: Lucknow , Uttar Pradesh
 - Bio: CSE @MNNIT ALLAHABAD'21 | Exploring new things :)
