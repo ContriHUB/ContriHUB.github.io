@@ -13,6 +13,11 @@
 - Bio: CSE @MNNIT'19 | @hohos | I have an Idea :smiley:
 - Github: [dbads](https://github.com/dbads)
 
+### Name: [Om Raj](https://github.com/breakit1234)
+- Place: Allahabad, UP, India
+- Bio: IT Ungergrad @MNNIT'20 && Loves to learn new stuffs.
+- GitHub: [breakit1234](https://github.com/breakit1234)
+
 #### Name: [Rohit Raj Anand](https://github.com/rht6226)
 - Place: Allahabad, UP, India
 - Bio: Shophomore | ECE| MNNIT 
