@@ -13,45 +13,52 @@
 - Bio: CSE @MNNIT'19 | @hohos | I have an Idea :smiley:
 - Github: [dbads](https://github.com/dbads)
 
-### Name: [Arsalan Sabir](https://github.com/aayanqazi)
-- Place: Karachi, Pakistan
-- Bio: MERN Stack Developer
-- Github: [aayanqazi](https://github.com/aayanqazi)
+### Name: [Om Raj](https://github.com/breakit1234)
+- Place: Allahabad, UP, India
+- Bio: IT Ungergrad @MNNIT'20 && Loves to learn new stuffs.
+- GitHub: [breakit1234](https://github.com/breakit1234)
 
-### Name: [Austin Yuan](https://github.com/TheEducatedPickle)
-- Place: California, USA
-- Bio: 2nd year CS student at UC Santa Cruz
-- Github: [The Educated Pickle](https://github.com/TheEducatedPickle)
-
-### Name: [Aayush Sinha](https://github.com/aayushsinha44)
-- Place: Ranchi, Jharkhand
-- Bio: CSE @BIT Mesra'20 | Learning new things
-- Github: [aayushsinha44](https://github.com/aayushsinha44)
-
-### Name: [Jose Luis](https://github.com/0c0de)
-- Place: Murcia, Spain
-- Bio: Crack things :smiley: 
-- Github: [0c0de](https://github.com/0c0de)
-
-### Name: [Pranav Bhardwaj](https://github.com/pranav1999)
-- Place: New Delhi, India
-- Bio: Curious Learner
-- Github: [pranav1999](https://github.com/pranav1999)
-
-### Name: [Vaibhav D. Aren](www.codeuino.org)
-- Place: Lucknow, Uttar Pradesh
-- Bio: Software Developer 
-- Github: [vaibhavdaren](https://github.com/vaibhavdaren)
-
-### Name: [Nithin Raj](https://github.com/nithinr07)
-- Place: Bangalore, Karnataka
-- Bio: ECE @IIIT Bangalore'22 | Aspiring web developer
-- Github: [nithinr07](https://github.com/nithinr07)
-
-### Name: [Kirankumar Ambati](https://github.com/kirankumarambati)
-- Place: Hyderabad, India
-- Passion: Frontend Development
 ### Name: [Kunal Sevkani]
 - Place: Jaipur, Rajasthan
 - Bio: Android Developer and Gaming Enthusiast
 - Github: [kunalmnnit](https://github.com/kunalmnnit)
+
+#### Name: [Rohit Raj Anand](https://github.com/rht6226)
+- Place: Allahabad, UP, India
+- Bio: Shophomore | ECE| MNNIT 
+- GitHub: [rht6226](https://github.com/rht6226)
+
+### Name: [Ranjeet Kumar](https://github.com/rkranjeet)
+- Place: New Delhi , India
+- Bio: Beginner But Hard Learner
+- Github: [Rana321](https://github.com/rkranjeet)
+
+### Name: [Sahaj Bamba](https://github.com/Sahaj-Bamba)
+- Place: Rudrapur, Uttarakhand
+- Bio: Explorer and Game Developer
+- Github: [Sahaj](https://github.com/Sahaj-Bamba)
+
+### Name: [Kashyap Nasit](https://github.com/KashyapNasit)
+- Place: Rajkot, Gujarat
+- Bio: Software Developer by night and fun lover by day ;)
+- Github: [KashyapNasit](https://github.com/KashyapNasit)
+
+### Name: [Divyanshu Maurya](https://github.com/divyanshu1610)
+- Place: Lucknow , Uttar Pradesh
+- Bio: CSE @MNNIT ALLAHABAD'21 | Exploring new things :)
+- Github: [divyanshu1610](https://github.com/divyanshu1610)
+
+### Name: [Suraj Goel](https://github.com/suraj-goel)
+- Place: Allahbad, Uttar Pradesh
+- Bio: CSE @MNNIT'21 | Loves dev. |  :smiley:
+- Github: [suraj-goel](https://github.com/suraj-goel)
+
+### Name: [Abhishek Kumar Singh](https://kumarabh494.wixsite.com/abhishekkumarsingh)
+- Place: Shaktinagar, Sonbhadra, Uttar Pradesh
+- Bio: Developer and Data Science Enthusiast
+- Github: [Abhishek1103](https://github.com/Abhishek1103)
+
+#### Name: [Surbhit Awasthi](https://github.com/surbhitawasthi)
+- Place: Lucknow, Uttar Pradesh, India
+- Bio: Java, Linux, Networking is Life | :pizza: is love
+- GitHub: [surbhitawasthi](https://github.com/surbhitawasthi)
