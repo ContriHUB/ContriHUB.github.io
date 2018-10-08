@@ -13,6 +13,11 @@
 - Bio: CSE @MNNIT'19 | @hohos | I have an Idea :smiley:
 - Github: [dbads](https://github.com/dbads)
 
+#### Name: [Rohit Raj Anand](https://github.com/rht6226)
+- Place: Allahabad, UP, India
+- Bio: Shophomore | ECE| MNNIT 
+- GitHub: [rht6226](https://github.com/rht6226)
+
 ### Name: [Ranjeet Kumar](https://github.com/rkranjeet)
 - Place: New Delhi , India
 - Bio: Beginner But Hard Learner
