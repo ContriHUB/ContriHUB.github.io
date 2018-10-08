@@ -18,7 +18,7 @@ Other repositories which are part of ContriHUB can be accessed here -
 
 ## What is ContriHUB?
 
-A 25 days long contest from September 5th - September 29th to get people involved in [Open Source](https://github.com/open-source). This repo is just the guide to get started on GitHub. We have a lot of different projects coming up. So start contributing and while you are at it, keep checking for more projects as they are added!
+A 25 days long contest from October 5th - October 29th to get people involved in [Open Source](https://github.com/open-source). This repo is just the guide to get started on GitHub. We have a lot of different projects coming up. So start contributing and while you are at it, keep checking for more projects as they are added!
 
 Choose any project and start fixing the issues. You can propose new features too !! Every feature you add or an issue you fix will fetch you some points according to the difficulty. At the end of the month, one who has the most points will be the winner. There are goodies waiting for you :P. Also, there are special arrangements just for first year. So, Stay tuned and keep checking the repos [here](https://github.com/ContriHUB) for more projects and issues :smiley:
 
