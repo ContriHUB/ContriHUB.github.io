@@ -82,3 +82,8 @@
 - Place: Allahabad, UP, India
 - Bio: Sort of exploring new Fields!
 - GitHub: [abhi1358](https://github.com/abhi1358)
+
+### Name: [Ankit Jain]
+- Place: Agra,UP,India
+- Bio: Android Developer and  Coding Enthusiast
+- Github: [jankit311](https://github.com/jankit311)
