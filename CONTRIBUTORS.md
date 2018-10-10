@@ -73,6 +73,11 @@
 - Bio: Web Development, Competitive Coding, Music | Dhokla and Fafda are love :yum: :grin:
 - GitHub: [jarvisdev](https://github.com/jarvisdev)
 
+#### Name: [Sanyam Singhal](https://github.com/sanyamsinghal)
+- Place: Muzaffarnagar, Uttar Pradesh, India
+- Bio: Android Development and Windows Lover
+- GitHub: [sanyamsinghal](https://github.com/sanyamsinghal)
+
 #### Name: [Shryesh Khandelwal](https://github.com/AzDan)
 - Place: Rishra, West Bengal, India
 - Bio: Jack of all trades, master of a few
