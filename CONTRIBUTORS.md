@@ -30,7 +30,7 @@
 
 #### Name: [Rohit Raj Anand](https://github.com/rht6226)
 - Place: Allahabad, UP, India
-- Bio: Shophomore | ECE| MNNIT 
+- Bio: Shophomore | ECE| MNNIT
 - GitHub: [rht6226](https://github.com/rht6226)
 
 ### Name: [Ranjeet Kumar](https://github.com/rkranjeet)
@@ -72,6 +72,11 @@
 - Place: Bhavnagar, Gujarat, India
 - Bio: Web Development, Competitive Coding, Music | Dhokla and Fafda are love :yum: :grin:
 - GitHub: [jarvisdev](https://github.com/jarvisdev)
+
+#### Name: [Shryesh Khandelwal](https://github.com/AzDan)
+- Place: Rishra, West Bengal, India
+- Bio: Jack of all trades, master of a few
+- GitHub: [AzDan](https://github.com/AzDan)
 
 #### Name: [Kartik Mahendru](https://github.com/kartikMahendru)
 - Place: Meerut, Uttar Pradesh, India
