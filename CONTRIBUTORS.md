@@ -30,7 +30,7 @@
 
 #### Name: [Rohit Raj Anand](https://github.com/rht6226)
 - Place: Allahabad, UP, India
-- Bio: Shophomore | ECE| MNNIT 
+- Bio: Shophomore | ECE| MNNIT
 - GitHub: [rht6226](https://github.com/rht6226)
 
 ### Name: [Ranjeet Kumar](https://github.com/rkranjeet)
@@ -77,7 +77,12 @@
 - Place: Muzaffarnagar, Uttar Pradesh, India
 - Bio: Android Development and Windows Lover
 - GitHub: [sanyamsinghal](https://github.com/sanyamsinghal)
-=======
+
+#### Name: [Shryesh Khandelwal](https://github.com/AzDan)
+- Place: Rishra, West Bengal, India
+- Bio: Jack of all trades, master of a few
+- GitHub: [AzDan](https://github.com/AzDan)
+
 #### Name: [Kartik Mahendru](https://github.com/kartikMahendru)
 - Place: Meerut, Uttar Pradesh, India
 - Bio: Android Development, Competitive Coding, Drama | Rajma and Chawal are love :octocat:
@@ -87,3 +92,13 @@
 - Place: Allahabad, UP, India
 - Bio: Sort of exploring new Fields!
 - GitHub: [abhi1358](https://github.com/abhi1358)
+
+### Name: [Gema Ulama Putra](https://github.com/gemul)
+- Place: Surabaya, East Java, Indonesia
+- Bio: Software Developer and a Caffeine-to-code converter.
+- GitHub: [gemul](https://github.com/gemul)
+
+#### Name: [Shruti Jagwani](https://github.com/shruti8019)
+- Place: Allahabad, Uttar Pradesh, India
+- Bio: Android Developer and Machine Learning Enthusiast 
+- GitHub: [Shruti](https://github.com/shruti8019)
