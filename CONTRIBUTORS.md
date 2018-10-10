@@ -93,6 +93,11 @@
 - Bio: Sort of exploring new Fields!
 - GitHub: [abhi1358](https://github.com/abhi1358)
 
+### Name: [Ankit Jain](https://github.com/jankit311)
+- Place: Agra,UP,India
+- Bio: Android Developer and  Coding Enthusiast
+- Github: [jankit311](https://github.com/jankit311)
+
 ### Name: [Gema Ulama Putra](https://github.com/gemul)
 - Place: Surabaya, East Java, Indonesia
 - Bio: Software Developer and a Caffeine-to-code converter.
@@ -102,3 +107,4 @@
 - Place: Allahabad, Uttar Pradesh, India
 - Bio: Android Developer and Machine Learning Enthusiast 
 - GitHub: [Shruti](https://github.com/shruti8019)
+
