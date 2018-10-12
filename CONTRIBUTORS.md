@@ -53,6 +53,11 @@
 - Bio: CSE @MNNIT ALLAHABAD'21 | Exploring new things :)
 - Github: [divyanshu1610](https://github.com/divyanshu1610)
 
+### Name: [Sri Ram Khandelwal](https://github.com/ram2408)
+- Place: Allahabad,Uttar Pradesh
+- Bio: Coding Enthusiast
+- Github: [ram2408](https://github.com/ram2408)
+
 ### Name: [Suraj Goel](https://github.com/suraj-goel)
 - Place: Allahbad, Uttar Pradesh
 - Bio: CSE @MNNIT'21 | Loves dev. |  :smiley:
@@ -93,10 +98,11 @@
 - Bio: Sort of exploring new Fields!
 - GitHub: [abhi1358](https://github.com/abhi1358)
 
-### Name: [Krishna Kant Singh](https://github.com/kks0101)
-- Place: Allahabad, UP, India
-- Bio: Explorer and Android developer
-- GitHub: [kks0101](https://github.com/kks0101)
+### Name: [Aniket Kumar](https://github.com/Aniket468)
+- Place: Samastipur ,Bihar ,India 
+- Bio: Software Developer and Tech Enthusiastic
+- Github: [aniket468](https://github.com/Aniket468) 
+
 
 ### Name: [Ankit Jain](https://github.com/jankit311)
 - Place: Agra,UP,India
@@ -112,4 +118,14 @@
 - Place: Allahabad, Uttar Pradesh, India
 - Bio: Android Developer and Machine Learning Enthusiast 
 - GitHub: [Shruti](https://github.com/shruti8019)
+
+#### Name: [Bhonesh Chawla](https://github.com/bhonesh1998)
+- Place: Jaipur , Rajasthan , India
+- Bio: Android Developer and Competitive programmer
+- GitHub: [Bhonesh](https://github.com/bhonesh1998)
+
+#### Name: [Krishna Kant Singh](https://github.com/kks0101)
+- Place: Allahabad, Uttar Pradesh, India
+- Bio: Explorer and Android Developer
+- GitHub: [kks0101](https://github.com/kks0101)
 
