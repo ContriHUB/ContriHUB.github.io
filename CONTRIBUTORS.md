@@ -53,6 +53,11 @@
 - Bio: CSE @MNNIT ALLAHABAD'21 | Exploring new things :)
 - Github: [divyanshu1610](https://github.com/divyanshu1610)
 
+### Name: [Sri Ram Khandelwal](https://github.com/ram2408)
+- Place: Allahabad,Uttar Pradesh
+- Bio: Coding Enthusiast
+- Github: [ram2408](https://github.com/ram2408)
+
 ### Name: [Suraj Goel](https://github.com/suraj-goel)
 - Place: Allahbad, Uttar Pradesh
 - Bio: CSE @MNNIT'21 | Loves dev. |  :smiley:
