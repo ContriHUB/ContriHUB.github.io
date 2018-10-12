@@ -113,3 +113,7 @@
 - Bio: Android Developer and Competitive programmer
 - GitHub: [Bhonesh](https://github.com/bhonesh1998)
 
+#### Name: [Krishna Kant Singh](https://github.com/kks0101)
+- Place: Allahabad, Uttar Pradesh, India
+- Bio: Explorer and Android Developer
+- GitHub: [kks0101](https://github.com/kks0101)
