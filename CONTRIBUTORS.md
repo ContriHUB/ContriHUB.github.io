@@ -93,6 +93,11 @@
 - Bio: Sort of exploring new Fields!
 - GitHub: [abhi1358](https://github.com/abhi1358)
 
+### Name: [Krishna Kant Singh](https://github.com/kks0101)
+- Place: Allahabad, UP, India
+- Bio: Explorer and Android developer
+- GitHub: [kks0101](https://github.com/kks0101)
+
 ### Name: [Ankit Jain](https://github.com/jankit311)
 - Place: Agra,UP,India
 - Bio: Android Developer and  Coding Enthusiast
