@@ -98,11 +98,11 @@
 - Bio: Sort of exploring new Fields!
 - GitHub: [abhi1358](https://github.com/abhi1358)
 
-
 ### Name: [Aniket Kumar](https://github.com/Aniket468)
 - Place: Samastipur ,Bihar ,India 
 - Bio: Software Developer and Tech Enthusiastic
 - Github: [aniket468](https://github.com/Aniket468) 
+
 
 ### Name: [Ankit Jain](https://github.com/jankit311)
 - Place: Agra,UP,India
