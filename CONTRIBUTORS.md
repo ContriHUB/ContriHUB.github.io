@@ -129,3 +129,8 @@
 - Bio: Explorer and Android Developer
 - GitHub: [kks0101](https://github.com/kks0101)
 
+#### Name: [Ashish Gopal Hattimare](https://github.com/ashishgopalhattimare)
+- Place: Allahabad, Uttar Pradesh, India
+- Bio: Java Developer and Competitive Programmer
+- GitHub: [AshishGopalHattimare](https://github.com/ashishgopalhattimare)
+
