@@ -38,6 +38,11 @@
 - Bio: Beginner But Hard Learner
 - Github: [Rana321](https://github.com/rkranjeet)
 
+#### Name: [Nikhil Agrawal](https://github.com/NikhilAgrawal3012)
+- Place: Surat, Gujarat, India
+- Bio: A beginner in web development and competitive programming
+- GitHub: [NikhilAgrawal3012](https://github.com/NikhilAgrawal3012)
+
 ### Name: [Sahaj Bamba](https://github.com/Sahaj-Bamba)
 - Place: Rudrapur, Uttarakhand
 - Bio: Explorer and Game Developer
@@ -99,9 +104,9 @@
 - GitHub: [abhi1358](https://github.com/abhi1358)
 
 ### Name: [Aniket Kumar](https://github.com/Aniket468)
-- Place: Samastipur ,Bihar ,India 
+- Place: Samastipur ,Bihar ,India
 - Bio: Software Developer and Tech Enthusiastic
-- Github: [aniket468](https://github.com/Aniket468) 
+- Github: [aniket468](https://github.com/Aniket468)
 
 
 ### Name: [Ankit Jain](https://github.com/jankit311)
@@ -116,7 +121,7 @@
 
 #### Name: [Shruti Jagwani](https://github.com/shruti8019)
 - Place: Allahabad, Uttar Pradesh, India
-- Bio: Android Developer and Machine Learning Enthusiast 
+- Bio: Android Developer and Machine Learning Enthusiast
 - GitHub: [Shruti](https://github.com/shruti8019)
 
 #### Name: [Bhonesh Chawla](https://github.com/bhonesh1998)
@@ -133,4 +138,3 @@
 - Place: Allahabad, Uttar Pradesh, India
 - Bio: Java Developer and Competitive Programmer
 - GitHub: [AshishGopalHattimare](https://github.com/ashishgopalhattimare)
-
