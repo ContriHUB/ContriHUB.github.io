@@ -134,3 +134,8 @@
 - Bio: Java Developer and Competitive Programmer
 - GitHub: [AshishGopalHattimare](https://github.com/ashishgopalhattimare)
 
+#### Name: [Gaurav Srivastava](https://github.com/LOC1207)
+- Place: Kanpur,Uttar Pradesh, India
+- Bio: Python Lover and competitive programmer. Inquisitive to learn new things
+- Github: [Gaurav Srivastava](https://github.com/LOC1207)
+
