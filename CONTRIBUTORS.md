@@ -134,3 +134,8 @@
 - Bio: Java Developer and Competitive Programmer
 - GitHub: [AshishGopalHattimare](https://github.com/ashishgopalhattimare)
 
+#### Name: [Himanshu Purwar](https://github.com/freakybaba)
+- Place: Allahabad, Uttar Pradesh, India
+- Bio: Java Developer and Competitive Programmer
+- GitHub: [Himanshu Purwar](https://github.com/freakybaba)
+
