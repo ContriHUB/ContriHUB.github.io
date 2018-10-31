@@ -18,6 +18,11 @@
 - Bio: A Web Developer,A day-dreamer;Personality-type:NULL
 - Github: [ashwini571](https://github.com/ashwini571)
 
+### Name: [Krishna Kant Singh](https://github.com/kks0101)
+- Place: Allahabad, UP, India
+- Bio: Explorer and Android developer
+- GitHub: [kks0101](https://github.com/kks0101)
+
 ### Name: [Om Raj](https://github.com/breakit1234)
 - Place: Allahabad, UP, India
 - Bio: IT Ungergrad @MNNIT'20 && Loves to learn new stuffs.
