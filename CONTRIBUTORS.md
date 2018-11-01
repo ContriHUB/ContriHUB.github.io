@@ -18,6 +18,11 @@
 - Bio: A Web Developer,A day-dreamer;Personality-type:NULL
 - Github: [ashwini571](https://github.com/ashwini571)
 
+### Name: [Krishna Kant Singh](https://github.com/kks0101)
+- Place: Allahabad, UP, India
+- Bio: Explorer and Android developer
+- GitHub: [kks0101](https://github.com/kks0101)
+
 ### Name: [Om Raj](https://github.com/breakit1234)
 - Place: Allahabad, UP, India
 - Bio: IT Ungergrad @MNNIT'20 && Loves to learn new stuffs.
@@ -30,7 +35,7 @@
 
 #### Name: [Rohit Raj Anand](https://github.com/rht6226)
 - Place: Allahabad, UP, India
-- Bio: Shophomore | ECE| MNNIT 
+- Bio: Shophomore | ECE| MNNIT
 - GitHub: [rht6226](https://github.com/rht6226)
 
 ### Name: [Ranjeet Kumar](https://github.com/rkranjeet)
@@ -53,6 +58,11 @@
 - Bio: CSE @MNNIT ALLAHABAD'21 | Exploring new things :)
 - Github: [divyanshu1610](https://github.com/divyanshu1610)
 
+### Name: [Sri Ram Khandelwal](https://github.com/ram2408)
+- Place: Allahabad,Uttar Pradesh
+- Bio: Coding Enthusiast
+- Github: [ram2408](https://github.com/ram2408)
+
 ### Name: [Suraj Goel](https://github.com/suraj-goel)
 - Place: Allahbad, Uttar Pradesh
 - Bio: CSE @MNNIT'21 | Loves dev. |  :smiley:
@@ -73,6 +83,16 @@
 - Bio: Web Development, Competitive Coding, Music | Dhokla and Fafda are love :yum: :grin:
 - GitHub: [jarvisdev](https://github.com/jarvisdev)
 
+#### Name: [Sanyam Singhal](https://github.com/sanyamsinghal)
+- Place: Muzaffarnagar, Uttar Pradesh, India
+- Bio: Android Development and Windows Lover
+- GitHub: [sanyamsinghal](https://github.com/sanyamsinghal)
+
+#### Name: [Shryesh Khandelwal](https://github.com/AzDan)
+- Place: Rishra, West Bengal, India
+- Bio: Jack of all trades, master of a few
+- GitHub: [AzDan](https://github.com/AzDan)
+
 #### Name: [Kartik Mahendru](https://github.com/kartikMahendru)
 - Place: Meerut, Uttar Pradesh, India
 - Bio: Android Development, Competitive Coding, Drama | Rajma and Chawal are love :octocat:
@@ -82,3 +102,40 @@
 - Place: Allahabad, UP, India
 - Bio: Sort of exploring new Fields!
 - GitHub: [abhi1358](https://github.com/abhi1358)
+
+### Name: [Aniket Kumar](https://github.com/Aniket468)
+- Place: Samastipur ,Bihar ,India 
+- Bio: Software Developer and Tech Enthusiastic
+- Github: [aniket468](https://github.com/Aniket468) 
+
+
+### Name: [Ankit Jain](https://github.com/jankit311)
+- Place: Agra,UP,India
+- Bio: Android Developer and  Coding Enthusiast
+- Github: [jankit311](https://github.com/jankit311)
+
+### Name: [Gema Ulama Putra](https://github.com/gemul)
+- Place: Surabaya, East Java, Indonesia
+- Bio: Software Developer and a Caffeine-to-code converter.
+- GitHub: [gemul](https://github.com/gemul)
+
+#### Name: [Shruti Jagwani](https://github.com/shruti8019)
+- Place: Allahabad, Uttar Pradesh, India
+- Bio: Android Developer and Machine Learning Enthusiast 
+- GitHub: [Shruti](https://github.com/shruti8019)
+
+#### Name: [Bhonesh Chawla](https://github.com/bhonesh1998)
+- Place: Jaipur , Rajasthan , India
+- Bio: Android Developer and Competitive programmer
+- GitHub: [Bhonesh](https://github.com/bhonesh1998)
+
+#### Name: [Krishna Kant Singh](https://github.com/kks0101)
+- Place: Allahabad, Uttar Pradesh, India
+- Bio: Explorer and Android Developer
+- GitHub: [kks0101](https://github.com/kks0101)
+
+#### Name: [Ashish Gopal Hattimare](https://github.com/ashishgopalhattimare)
+- Place: Allahabad, Uttar Pradesh, India
+- Bio: Java Developer and Competitive Programmer
+- GitHub: [AshishGopalHattimare](https://github.com/ashishgopalhattimare)
+
