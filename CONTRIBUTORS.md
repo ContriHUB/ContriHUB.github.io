@@ -144,3 +144,7 @@
 - Bio: Java Developer and Competitive Programmer
 - GitHub: [AshishGopalHattimare](https://github.com/ashishgopalhattimare)
 
+#### Name: [Madhup Prakash](https://github.com/coderdoze)
+- Place: Prayagraj, Uttar Pradesh, India
+- Bio: Take a chill pill man.
+- GitHub: [coderdoze](https://github.com/coderdoze)
