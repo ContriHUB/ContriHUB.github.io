@@ -13,10 +13,20 @@
 - Bio: CSE @MNNIT'19 | @hohos | I have an Idea :smiley:
 - Github: [dbads](https://github.com/dbads)
 
+### Name: [Rituparno Biswas](https://github.com/roopbiswas)
+- Place: Allahbad, Uttar Pradesh
+- Bio: Explore and grow :smiley:
+- Github: [roopbiswas](https://github.com/roopbiswas)
+
 ### Name: [Ashwini  Ojha](https://github.com/ashwini571)
 - Place: Allahbad, Uttar Pradesh
 - Bio: A Web Developer,A day-dreamer;Personality-type:NULL
 - Github: [ashwini571](https://github.com/ashwini571)
+
+### Name: [Krishna Kant Singh](https://github.com/kks0101)
+- Place: Allahabad, UP, India
+- Bio: Explorer and Android developer
+- GitHub: [kks0101](https://github.com/kks0101)
 
 ### Name: [Om Raj](https://github.com/breakit1234)
 - Place: Allahabad, UP, India
@@ -37,6 +47,11 @@
 - Place: New Delhi , India
 - Bio: Beginner But Hard Learner
 - Github: [Rana321](https://github.com/rkranjeet)
+
+#### Name: [Nikhil Agrawal](https://github.com/NikhilAgrawal3012)
+- Place: Surat, Gujarat, India
+- Bio: A beginner in web development and competitive programming
+- GitHub: [NikhilAgrawal3012](https://github.com/NikhilAgrawal3012)
 
 ### Name: [Sahaj Bamba](https://github.com/Sahaj-Bamba)
 - Place: Rudrapur, Uttarakhand
@@ -99,9 +114,9 @@
 - GitHub: [abhi1358](https://github.com/abhi1358)
 
 ### Name: [Aniket Kumar](https://github.com/Aniket468)
-- Place: Samastipur ,Bihar ,India 
+- Place: Samastipur ,Bihar ,India
 - Bio: Software Developer and Tech Enthusiastic
-- Github: [aniket468](https://github.com/Aniket468) 
+- Github: [aniket468](https://github.com/Aniket468)
 
 
 ### Name: [Ankit Jain](https://github.com/jankit311)
@@ -116,7 +131,7 @@
 
 #### Name: [Shruti Jagwani](https://github.com/shruti8019)
 - Place: Allahabad, Uttar Pradesh, India
-- Bio: Android Developer and Machine Learning Enthusiast 
+- Bio: Android Developer and Machine Learning Enthusiast
 - GitHub: [Shruti](https://github.com/shruti8019)
 
 #### Name: [Bhonesh Chawla](https://github.com/bhonesh1998)
@@ -138,3 +153,4 @@
 - Place: Allahabad, Uttar Pradesh, India
 - Bio: Competitive Programmer and Java Developer
 - GitHub: [AmitJain](https://github.com/amitj4056)
+
