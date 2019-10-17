@@ -154,3 +154,8 @@
 - Bio: Competitive Programmer and Java Developer
 - GitHub: [AmitJain](https://github.com/amitj4056)
 
+#### Name: [Himanshu Purwar](https://github.com/freakybaba)
+- Place: Allahabad, Uttar Pradesh, India
+- Bio: Java Developer and Competitive Programmer
+- GitHub: [Himanshu Purwar](https://github.com/freakybaba)
+
