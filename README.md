@@ -27,7 +27,7 @@ So, if you want to contribute to a particular project by either fixing an issue 
 -   Create a new branch
 -   Add a feature /fix the issue
 -   Create a Pull Request
--   Submit the link to your Pull Request [here](http://contrihubs.herokuapp.com/)
+-   Submit the link to your Pull Request [here](https://contrihub21.herokuapp.com/)
 -   Wait for it to accept and grab your points :smiley:
 
 Also, please make sure to follow the proper formatting such as
