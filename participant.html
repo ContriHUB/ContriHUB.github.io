@@ -1,428 +1,214 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1, shrink-to-fit=no"
+        />
+        <meta http-equiv="x-ua-compatible" content="ie=edge" />
+        <title>ContriHUB</title>
+        <!-- Font Awesome -->
+        <link
+            rel="stylesheet"
+            href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+        />
+        <link rel="icon" type="image/png" href="img/favicon.png" />
+        <link
+            href="https://fonts.googleapis.com/css?family=Cormorant Infant"
+            rel="stylesheet"
+        />
+        <!-- Bootstrap core CSS -->
+        <link href="css/bootstrap.min.css" rel="stylesheet" />
+        <!-- Material Design Bootstrap -->
+        <link href="css/mdb.min.css" rel="stylesheet" />
+        <!-- Your custom styles (optional) -->
+        <link href="css/style.min.css" rel="stylesheet" />
+        <style type="text/css">
+            html,
+            body,
+            header,
+            .view {
+                height: 100%;
+            }
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>ContriHUB</title>
-  <!-- Font Awesome -->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="icon" type="image/png" href="img/favicon.png"/>
-  <link href='https://fonts.googleapis.com/css?family=Cormorant Infant' rel='stylesheet'>
-  <!-- Bootstrap core CSS -->
-  <link href="css/bootstrap.min.css" rel="stylesheet">
-  <!-- Material Design Bootstrap -->
-  <link href="css/mdb.min.css" rel="stylesheet">
-  <!-- Your custom styles (optional) -->
-  <link href="css/style.min.css" rel="stylesheet">
-  <style type="text/css">
-    html,
-    body,
-    header,
-    .view {
-      height: 100%;
-    }
+            @media (max-width: 740px) {
+                html,
+                body,
+                header,
+                .view {
+                    height: 1000px;
+                }
+            }
 
-    @media (max-width: 740px) {
-      html,
-      body,
-      header,
-      .view {
-        height: 1000px;
-      }
-    }
+            @media (min-width: 800px) and (max-width: 850px) {
+                html,
+                body,
+                header,
+                .view {
+                    height: 650px;
+                }
+            }
+            @media (min-width: 800px) and (max-width: 850px) {
+                .navbar:not(.top-nav-collapse) {
+                    background: #1c2331 !important;
+                }
+            }
+            .card-img-top {
+                /* min-height: 400px; */
+                max-height: 400px;
+            }
+        </style>
+    </head>
 
-    @media (min-width: 800px) and (max-width: 850px) {
-      html,
-      body,
-      header,
-      .view {
-        height: 650px;
-      }
-    }
-    @media (min-width: 800px) and (max-width: 850px) {
-              .navbar:not(.top-nav-collapse) {
-                  background: #1C2331!important;
-              }
-          }
-    .card-img-top{
-      min-height: 400px;
-      max-height: 400px;
-    }
-  </style>
-</head>
+    <body>
+        <!-- Navbar -->
+        <nav
+            class="
+                navbar
+                fixed-top
+                navbar-expand-lg navbar-dark
+                scrolling-navbar
+            "
+        >
+            <div class="container">
+                <!-- Brand -->
+                <a class="navbar-brand" href="https://contrihub.github.io">
+                    <strong>ContriHUB</strong>
+                </a>
 
-<body>
+                <!-- Collapse -->
+                <button
+                    class="navbar-toggler"
+                    type="button"
+                    data-toggle="collapse"
+                    data-target="#navbarSupportedContent"
+                    aria-controls="navbarSupportedContent"
+                    aria-expanded="false"
+                    aria-label="Toggle navigation"
+                >
+                    <span class="navbar-toggler-icon"></span>
+                </button>
 
-  <!-- Navbar -->
-  <nav class="navbar fixed-top navbar-expand-lg navbar-dark scrolling-navbar">
-    <div class="container">
+                <!-- Links -->
+                <div
+                    class="collapse navbar-collapse"
+                    id="navbarSupportedContent"
+                >
+                    <!-- Left -->
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="index.html"
+                                >Home
+                                <span class="sr-only">(current)</span>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="index.html#about"
+                                >About ContriHUB</a
+                            >
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="index.html#ourgoal"
+                                >Our Goal</a
+                            >
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="index.html#ourteam"
+                                >Our Team</a
+                            >
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="index.html#pastorganizers"
+                                >Past Organizers</a
+                            >
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#" target="_blank"
+                                >Participants</a
+                            >
+                        </li>
+                        <li class="nav-item">
+                            <a
+                                class="nav-link"
+                                href="https://contrihub21.herokuapp.com/"
+                                >Submit PR</a
+                            >
+                        </li>
+                    </ul>
 
-      <!-- Brand -->
-      <a class="navbar-brand" href="https://contrihub.github.io">
-        <strong>ContriHUB</strong>
-      </a>
+                    <!-- Right -->
+                    <ul class="navbar-nav nav-flex-icons">
+                        <li class="nav-item">
+                            <a
+                                href="https://www.facebook.com/groups/ContriHUB/"
+                                class="nav-link"
+                            >
+                                <i class="fa fa-facebook"></i>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a
+                                href="https://github.com/ContriHUB"
+                                class="nav-link border border-light rounded"
+                            >
+                                <i class="fa fa-github mr-2"></i>ContriHUB
+                                GitHub
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
 
-      <!-- Collapse -->
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
-        aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-
-      <!-- Links -->
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-
-        <!-- Left -->
-        <ul class="navbar-nav mr-auto">
-          <li class="nav-item active">
-            <a class="nav-link" href="index.html">Home
-              <span class="sr-only">(current)</span>
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="index.html#about">About ContriHUB</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="index.html#ourgoal">Our Goal</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="index.html#ourteam">Our Team</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#" target="_blank">Participants</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="http://contrihubs.herokuapp.com/">Submit PR</a>
-          </li>
-        </ul>
-
-        <!-- Right -->
-        <ul class="navbar-nav nav-flex-icons">
-          <li class="nav-item">
-            <a href="https://www.facebook.com/groups/ContriHUB/" class="nav-link">
-              <i class="fa fa-facebook"></i>
-            </a>
-          </li>
-          <li class="nav-item">
-            <a href="https://github.com/ContriHUB" class="nav-link border border-light rounded"
+        <div
+            style="
+                background-image: url('img/background.jpg');
+                background-repeat: repeat;
+                background-size: cover;
+            "
+        >
+            <div
+                class="
+                    mask
+                    rgba-black-light
+                    d-flex
+                    justify-content-center
+                    align-items-center
+                "
             >
-              <i class="fa fa-github mr-2"></i>ContriHUB GitHub
-            </a>
-          </li>
-        </ul>
+                <div class="container">
+                    <div
+                        class="row justify-content-center"
+                        style="margin-top: 100px"
+                    >
+                        <h1
+                            class="display-5 text-white font-weight-bold"
+                            style="font-family: Cormorant Infant"
+                        >
+                            Participants
+                        </h1>
+                    </div>
+                    <div class="row">
+                        <!-- Add your profile data in this div -->
 
-      </div>
-
-    </div>
-  </nav>
-
-  <div style="background-image: url('img/background.jpg'); background-repeat: repeat; background-size: cover;">
-
-    <div class="mask rgba-black-light d-flex justify-content-center align-items-center">
-
-      <div class="container">
-        <div class="row justify-content-center" style="margin-top: 100px">
-        <h1 class="display-5 text-white font-weight-bold" style="font-family: Cormorant Infant">Participants</h1>
-      </div>
-
-      <div class="row justify-content-center" style="margin-top: 20px">
-
-          <!-- Add your profile data in this div -->
-
-          <div class="col-auto" style="margin-bottom: 75px">
-            <div class="card" style="width: 300px">
-              <img class="card-img-top" src="img/profile/abhey.png" alt="Card image">
-              <div class="card-body">
-                <h4 class="card-title">Abhey Rana</h4>
-                <p class="card-text">I am an enthusiastic programmer who loves open source development.</p>
-                <a href="https://github.com/Abhey" class="btn btn-primary">See Profile</a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-auto" style="margin-bottom: 75px">
-            <div class="card" style="width: 300px">
-              <img class="card-img-top" src="img/profile/roop.png" alt="Card image">
-              <div class="card-body"><h4 class="card-title">Rituparno Biswas</h4>
-                <p class="card-text">Passionate developer and love open source.</p>
-                <a href="https://github.com/roopbiswas" class="btn btn-primary">See Profile</a>
-                </div>
-            </div>
-          </div>
-
-          <div class="col-auto" style="margin-bottom: 75px">
-            <div class="card" style="width: 300px">
-              <img class="card-img-top" src="img/profile/suraj.jpg" alt="Card image">
-              <div class="card-body">
-                <h4 class="card-title">Suraj Goel</h4>
-                <p class="card-text">CSE Sophomore who love development.</p>
-                <a href="https://github.com/suraj-goel" class="btn btn-primary">See Profile</a>
-                </div>
-            </div>
-          </div>
-
-	        <div class="col-auto" style="margin-bottom: 75px">
-            <div class="card" style="width: 300px">
-              <img class="card-img-top" src="img/profile/surbhit.jpeg" alt="Card image">
-              <div class="card-body">
-                <h4 class="card-title">Surbhit Awasthi</h4>
-                <p class="card-text">Java, Linux, Networking is Life. Pizza is love.</p>
-                <a href="https://github.com/surbhitawasthi" class="btn btn-primary">See Profile</a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-auto" style="margin-bottom: 75px">
-            <div class="card" style="width: 300px">
-              <img class="card-img-top" src="img/profile/aks.jpg" alt="Card image">
-              <div class="card-body">
-                <h4 class="card-title">Abhishek Kumar Singh</h4>
-                <p class="card-text">Programmer, Developer and Data Science Enthusiast.</p>
-                <a href="https://github.com/Abhishek1103" class="btn btn-primary">See Profile</a>
-              </div>
-            </div>
-          </div>
-
-         <div class="col-auto" style="margin-bottom: 75px">
-            <div class="card" style="width: 300px">
-              <img class="card-img-top" src="img/profile/divyanshu1610.jpg" alt="Card image">
-              <div class="card-body">
-                <h4 class="card-title">Divyanshu Maurya</h4>
-                <p class="card-text">Exploring new things :) .</p>
-                <a href="https://github.com/divyanshu1610" class="btn btn-primary">See Profile</a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-auto" style="margin-bottom: 75px">
-            <div class="card" style="width: 300px">
-              <img class="card-img-top" src="img/profile/Ash.jpg" alt="Card image">
-              <div class="card-body">
-                <h4 class="card-title">Ashwini Ojha</h4>
-                <p class="card-text">I am reliable, driven, flexible, ambitious, delightful, brave....or any other good adjective you can add. </p>
-                <a href="https://github.com/ashwini571" class="btn btn-primary">See Profile</a>
-              </div>
-            </div>
-          </div>
-
-        <div class="col-auto" style="margin-bottom: 75px">
-            <div class="card" style="width: 300px">
-              <img class="card-img-top" src="img/profile/om.png" alt="Card image">
-              <div class="card-body">
-                <h4 class="card-title">Om Raj</h4>
-                <p class="card-text">IT Ungergrad @MNNIT'20 && Loves to learn new stuffs.</p>
-                <a href="https://github.com/breakit1234" class="btn btn-primary">See Profile</a>
-                </div>
-            </div>
-          </div>
-
-	<div class="col-auto" style="margin-bottom: 75px">
-            <div class="card" style="width: 300px">
-              <img class="card-img-top" src="img/profile/kk.png" alt="Card image">
-              <div class="card-body"><h4 class="card-title">Krishna Kant Singh</h4>
-                <p class="card-text">Love to learn new stuffs.</p>
-                <a href="https://github.com/kks0101" class="btn btn-primary">See Profile</a>
-                </div>
-            </div>
-          </div>
-
-	      <div class="col-auto" style="margin-bottom: 75px">
-		      <div class="card" style="width: 300px">
-                <img class="card-img-top" src="img/profile/abhi.jpg" alt="Card image">
-                <div class="card-body">
-                  <h4 class="card-title">Abhishek Kumar</h4>
-                  <p class="card-text">Sort of exploring new Fields.</p>
-                  <a href="https://github.com/abhi1358" class="btn btn-primary">See Profile</a>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-auto" style="margin-bottom: 75px">
-              <div class="card" style="width: 300px">
-                  <img class="card-img-top" src="img/profile/Nikhil.jpg" alt="Card image">
-                  <div class="card-body">
-                      <h4 class="card-title">Nikhil Agrawal</h4>
-                      <p class="card-text">A beginner in web development and competitive programming</p>
-                      <a href="https://github.com/NikhilAgrawal3012" class="btn btn-primary">See Profile</a>
-                  </div>
-              </div>
-          </div>
-
-           <div class="col-auto" style="margin-bottom: 75px">
-		          <div class="card" style="width: 300px">
-              	<img class="card-img-top" src="img/profile/KashyapNasit.jpg" alt="Card image">
-              	<div class="card-body">
-               	    <h4 class="card-title">Kashyap Naist</h4>
-                    <p class="card-text">Software Developer by night fun lover by day ;)</p>
-                    <a href="https://github.com/KashyapNasit" class="btn btn-primary">See Profile</a>
-              </div>
-            </div>
-          </div>
-
-         <div class="col-auto" style="margin-bottom: 75px">
-		        <div class="card" style="width: 300px">
-                <img class="card-img-top" src="img/profile/sahaj.jpg" alt="Card image">
-                <div class="card-body">
-                  <h4 class="card-title">Sahaj Bamba</h4>
-                  <p class="card-text">I am an explorer who is still searching what he has to do trying out all the things along the way.</p>
-                  <a href="https://github.com/Sahaj-Bamba" class="btn btn-primary">See Profile</a>
-                </div>
-              </div>
-            </div>
-
-           <div class="col-auto" style="margin-bottom: 75px">
-            <div class="card" style="width: 300px">
-              <img class="card-img-top" src="img/profile/Ranjeet.jpg" alt="Card image">
-              <div class="card-body">
-                <h4 class="card-title">Ranjeet Kumar</h4>
-                <p class="card-text">Beginner but Hard Learner.</p>
-                <a href="https://github.com/rkranjeet" class="btn btn-primary">See Profile</a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-auto" style="margin-bottom: 75px">
-            <div class="card" style="width: 300px">
-                <img class="card-img-top" src="https://res.cloudinary.com/dz2bsme0a/image/upload/v1538978467/rht6.jpg" alt="Card image">
-                <div class="card-body">
-                    <h4 class="card-title">Rohit Raj Anand</h4>
-                    <p class="card-text">I am just trying to get a vibe of opensource through this event.</p>
-                    <a href="https://github.com/rht6226" class="btn btn-primary">See Profile</a>
+                        <!-- Add your info above this -->
+                    </div>
                 </div>
             </div>
         </div>
 
-        <div class="col-auto" style="margin-bottom: 75px">
-          <div class="card" style="width: 300px">
-            <img class="card-img-top" src="img/profile/milan.jpg" alt="Card image">
-            <div class="card-body">
-              <h4 class="card-title">Milan Bavishi</h4>
-              <p class="card-text">Programmer, Developer and Foodie</p>
-              <a href="https://github.com/jarvisdev" class="btn btn-primary">See Profile</a>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-auto" style="margin-bottom: 75px">
-            <div class="card" style="width: 300px">
-              <img class="card-img-top" src="img/profile/ram2408.jpg" alt="Card image">
-              <div class="card-body">
-                <h4 class="card-title">Sri Ram Khandelwal</h4>
-                <p class="card-text">Coding Enthusiast.</p>
-                <a href="https://github.com/ram2408" class="btn btn-primary">See Profile</a>
-              </div>
-            </div>
-          </div>
-
-	<div class="col-auto" style="margin-bottom: 75px"> </div>
-		<div class="col-auto" style="margin-bottom: 75px">
-			<div class="card" style="width: 300px">
-				<img class="card-img-top" src="img/profile/sammy.jpg" alt="Card image">
-				<div class="card-body">
-					<h4 class="card-title">Sanyam Singhal</h4>
-					<p class="card-text">Android Development and Windows Lover</p>
-					<a href="https://github.com/sanyamsinghal" class="btn btn-primary">See Profile</a>
-				</div>
-      </div>
-		</div>
-
-        <div class="col-auto" style="margin-bottom: 75px">
-          <div class="card" style="width: 300px">
-            <img class="card-img-top" src="img/profile/shryesh.jpg" alt="Card image">
-            <div class="card-body">
-              <h4 class="card-title">Shryesh Khandelwal</h4>
-              <p class="card-text">Jack of all trades, master of a few</p>
-              <a href="https://github.com/AzDan" class="btn btn-primary">See Profile</a>
-            </div>
-          </div>
-        </div>
-
-
-	      <div class="col-auto" style="margin-bottom: 75px">
-            <div class="card" style="width: 300px;">
-              <img class="card-img-top" src="img/profile/kartik.jpg" alt="Card image">
-              <div class="card-body">
-                <h4 class="card-title">Kartik Mahendru</h4>
-                <p class="card-text">CSE enthusiast</p>
-                <a href="https://github.com/kartikMahendru" class="btn btn-primary">See Profile</a>
-                </div>
-            </div>
-          </div>
-
-        <div class="col-auto" style="margin-bottom: 75px">
-          <div class="card" style="width: 300px">
-            <img class="card-img-top" src="img/profile/gemul.jpeg" alt="Card image">
-            <div class="card-body">
-              <h4 class="card-title">Gema Ulama Putra</h4>
-              <p class="card-text">Software Developer and a Caffeine-to-code converter.</p>
-              <a href="https://github.com/gemul" class="btn btn-primary">See Profile</a>
-            </div>
-          </div>
-        </div>
-
-      <div class="col-auto" style="margin-bottom: 75px">
-          <div class="card" style="width: 300px">
-            <img class="card-img-top" src="img/profile/shruti.jpeg" alt="Card image">
-            <div class="card-body">
-              <h4 class="card-title">Shruti Jagwani</h4>
-              <p class="card-text">Android Developer and Machine Learning Enthusiast</p>
-              <a href="https://github.com/shruti8019" class="btn btn-primary">See Profile</a>
-            </div>
-          </div>
-        </div>
-
-	       <div class="col-auto" style="margin-bottom: 75px">
-            <div class="card" style="width: 300px">
-              <img class="card-img-top" src="img/profile/bhonesh.png" alt="Card image">
-              <div class="card-body">
-                <h4 class="card-title">Bhonesh Chawla</h4>
-                <p class="card-text">Android Developer & Competitive coder </p>
-                <a href="https://github.com/bhonesh1998" class="btn btn-primary">See Profile</a>
-                </div>
-            </div>
-          </div>
-
-
-           <div class="col-auto" style="margin-bottom: 75px">
-            <div class="card" style="width: 300px">
-              <img class="card-img-top" src="img/profile/him.jpg" alt="Card image">
-              <div class="card-body">
-                <h4 class="card-title">HimanshuPurwar</h4>
-                <p class="card-text">Android Developer & Competitive coder </p>
-                <a href="https://github.com/freakybaba" class="btn btn-primary">See Profile</a>
-                </div>
-            </div>
-          </div>
-	      
-          <div class="col-auto" style="margin-bottom: 75px">
-            <div class="card" style="width: 300px">
-              <img class="card-img-top" src="img/profile/amit.jpeg" alt="Card image">
-              <div class="card-body">
-                <h4 class="card-title">Amit Jain</h4>
-                <p class="card-text">Java Developer & Competitive coder </p>
-                <a href="https://github.com/amitj4056" class="btn btn-primary">See Profile</a>
-                </div>
-            </div>
-          </div>
-          <!-- Add your info above this -->
-
-        </div>
-      </div>
-    </div>
-  </div>
-
-   <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
-    <!-- Bootstrap tooltips -->
-    <script type="text/javascript" src="js/popper.min.js"></script>
-    <!-- Bootstrap core JavaScript -->
-    <script type="text/javascript" src="js/bootstrap.min.js"></script>
-    <!-- MDB core JavaScript -->
-    <script type="text/javascript" src="js/mdb.min.js"></script>
-    <!-- Initializations -->
-    <script type="text/javascript">
-      // Animations initialization
-      new WOW().init();
-    </script>
-  </body>
+        <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+        <!-- Bootstrap tooltips -->
+        <script type="text/javascript" src="js/popper.min.js"></script>
+        <!-- Bootstrap core JavaScript -->
+        <script type="text/javascript" src="js/bootstrap.min.js"></script>
+        <!-- MDB core JavaScript -->
+        <script type="text/javascript" src="js/mdb.min.js"></script>
+        <!-- Initializations -->
+        <script type="text/javascript">
+            // Animations initialization
+            new WOW().init();
+        </script>
+    </body>
 </html>

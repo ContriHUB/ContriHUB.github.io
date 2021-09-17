@@ -20,12 +20,15 @@
    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">-->
   <link rel="icon" type="image/png" href="img/favicon.png"/>
   <link href='https://fonts.googleapis.com/css?family=Cormorant Infant' rel='stylesheet'>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css" rel='stylesheet'>
+  
   <!-- Bootstrap core CSS -->
   <link href="css/bootstrap.min.css" rel="stylesheet">
   <!-- Material Design Bootstrap -->
   <link href="css/mdb.min.css" rel="stylesheet">
   <!-- Your custom styles (optional) -->
   <link href="css/style.min.css" rel="stylesheet">
+
   <style type="text/css">
     html,
     body,
@@ -97,10 +100,15 @@
             <a class="nav-link" href="#ourteam">Our Team</a>
           </li>
           <li class="nav-item">
+              <a class="nav-link" href="index.html#pastorganizers"
+                  >Past Organizers</a
+              >
+          </li>
+          <li class="nav-item">
             <a class="nav-link" href="participant.html">Participants</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="http://contrihubs.herokuapp.com/">Submit PR</a>
+            <a class="nav-link" href="https://contrihub21.herokuapp.com/">Submit PR</a>
           </li>
         </ul>
 
@@ -164,7 +172,7 @@
       <!--Section: Main info-->
       <section class="mt-5 wow fadeIn" id="about">
         <div style="margin-bottom: 50px">
-          <h2 class="h2 mb-5 text-center display-5 font-weight-bold" >About ContriHUB</h2>
+          <h2 class="h2 mb-6 text-center display-5 font-weight-bold" >About ContriHUB</h2>
           ContriHUB is an Open Source Event, which aims to get more people into the world of open source. This event gives a jumpstart to open source development skills. It also serves as a warm up for GSoC and other global open source competitions. This is a month long event, throughout the whole event participants learn different open source tools, solve various issues and compete against one another to be the winner.
         </div>
         <!--Grid row-->
@@ -283,57 +291,115 @@
 
       <hr class="my-5">
 
-      <section id="ourteam">
+      <section id="ourteam" class="pt-5 pb-5 shadow-sm">
         <h2 class="h2 mb-5 text-center display-5 font-weight-bold">Our Team</h2>
+        <div class="container" >
+          <div class="row">
 
-        <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-auto">
-            <div class="card" style="width: 225px">
-              <img class="card-img-top" src="img/profile/abhey.png" alt="Card image">
-              <div class="card-body">
-                <h4 class="card-title">Abhey Rana</h4>
-                <p class="card-text">I am an enthusiastic programmer who loves open source development.</p>
-                <a href="https://github.com/Abhey" class="btn btn-primary">See Profile</a>
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 mb-3 d-flex align-items-stretch justify-content-center" >
+              <div class="card justify-content-center align-items-center">
+                <img src="img/profile/pirate_ksh.jpeg" class="card-img-top" alt="Card Image" style="max-height: 250px; max-width: 250px;">
+                <div class="card-body d-flex flex-column" >
+                  <h5 class="card-title">Kshitiz Srivastava</h5>
+                  <p id="member-intro" class="custom-scrollbar-js card-text mb-4 sm-6" style="max-width: 250px; max-height: 200px; overflow-y: auto">I am an enthusiastic(pro) programmer.</p>
+                  <a href="https://github.com/pirateksh" class="btn btn-primary" style="margin-top: auto"
+>See Profile</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 mb-3 d-flex align-items-stretch justify-content-center" >
+              <div class="card justify-content-center align-items-center">
+                <img src="img/profile/ashu.jpeg" class="card-img-top" alt="Card Image" style="max-height: 250px; max-width: 250px;">
+                <div class="card-body d-flex flex-column" >
+                  <h5 class="card-title">Ashutosh Chitranshi</h5>
+                  <p id="member-intro" class="custom-scrollbar-js card-text mb-4 sm-6" style="max-width: 250px; max-height: 200px; overflow-y: auto">CS Undergraduate at MNNIT Allahabad Former Intern at DE Shaw.</p>
+                  <a href="https://github.com/ashu12chi" class="btn btn-primary" style="margin-top: auto"
+>See Profile</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 mb-3 d-flex align-items-stretch justify-content-center" >
+              <div class="card justify-content-center align-items-center">
+                <img src="img/profile/nsp.jpeg" class="card-img-top" alt="Card Image" style="max-height: 250px; max-width: 250px;">
+                <div class="card-body d-flex flex-column" >
+                  <h5 class="card-title">Nishchal Siddharth Pandey</h5>
+                  <p id="member-intro" class="custom-scrollbar-js card-text mb-4 sm-6" style="max-width: 250px; max-height: 200px; overflow-y: auto">CSE MNNIT'22</p>
+                  <a href="https://github.com/nisiddharth" class="btn btn-primary" style="margin-top: auto"
+>See Profile</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 mb-3 d-flex align-items-stretch justify-content-center" >
+              <div class="card justify-content-center align-items-center">
+                <img src="img/profile/sangwan.jpeg" class="card-img-top" alt="Card Image" style="max-height: 250px; max-width: 250px;">
+                <div class="card-body d-flex flex-column" >
+                  <h5 class="card-title">Ankit Sangwan</h5>
+                  <p id="member-intro" class="custom-scrollbar-js card-text mb-4 sm-6" style="max-width: 250px; max-height: 200px; overflow-y: auto">ECE MNNIT'22 | Web Developer | Tech Enthusiast</p>
+                  <a href="https://github.com/ankitsangwan1999" class="btn btn-primary" style="margin-top: auto"
+>See Profile</a>
+                </div>
               </div>
             </div>
           </div>
-          <div class="col-auto">
-            <div class="card" style="width: 225px">
-              <img class="card-img-top" src="img/profile/akshay.png" alt="Card image">
-              <div class="card-body">
-                <h4 class="card-title">Akshay Sharma</h4>
-                <p class="card-text">
-CS Undergraduate at MNNIT Allahabad Former Intern at DE Shaw</p>
-                <a href="https://github.com/akshay31057" class="btn btn-primary">See Profile</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-auto">
-            <div class="card" style="width: 225px">
-              <img class="card-img-top" src="img/profile/deepak.png" alt="Card image">
-              <div class="card-body">
-                <h4 class="card-title">Deepak Bharti</h4>
-                <p class="card-text">CSE MNNIT'19 | <a href="http://hohos.tech"> @hohos </a> </p>
-                <a href="https://github.com/dbads" class="btn btn-primary">See Profile</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-auto">
-            <div class="card" style="width: 225px">
-              <img class="card-img-top" src="img/profile/mohit.jpg" alt="Card image">
-              <div class="card-body">
-                <h4 class="card-title">Mohit Khare</h4>
-                <p class="card-text">CSE @ MNNIT'19 | Computer-Club Coordi | Android | Python</p>
-                <a href="https://github.com/mkfeuhrer" class="btn btn-primary">See Profile</a>
-              </div>
-            </div>
-          </div>
-      </div>
         </div>
       </section>
       <!--Section: More-->
+      <hr class="my-5">
+      <section id="pastorganizers" class="pt-5 pb-5 shadow-sm">
+        <h2 class="h2 mb-5 text-center display-5 font-weight-bold">Past organizers</h2>
+        <div class="container" >
+          <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 mb-3 d-flex align-items-stretch justify-content-center" >
+              <div class="card justify-content-center align-items-center">
+                <img src="img/profile/abhey.png" class="card-img-top" alt="Card Image" style="max-height: 250px; max-width: 250px;">
+                <div class="card-body d-flex flex-column" >
+                  <h5 class="card-title">Abhey Rana</h5>
+                  <p id="member-intro" class="custom-scrollbar-js card-text mb-4 sm-6" style="max-width: 250px; max-height: 200px; overflow-y: auto">I am an enthusiastic programmer who loves open source development.</p>
+                  <a href="https://github.com/Abhey" class="btn btn-primary" style="margin-top: auto"
+>See Profile</a>
+                </div>
+              </div>
+            </div>
 
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 mb-3 d-flex align-items-stretch justify-content-center" >
+              <div class="card justify-content-center align-items-center">
+                <img src="img/profile/akshay.png" class="card-img-top" alt="Card Image" style="max-height: 250px; max-width: 250px;">
+                <div class="card-body d-flex flex-column" >
+                  <h5 class="card-title">Akshay Sharma
+</h5>
+                  <p id="member-intro" class="custom-scrollbar-js card-text mb-4 sm-6" style="max-width: 250px; max-height: 200px; overflow-y: auto">CS Undergraduate at MNNIT Allahabad Former Intern at DE Shaw.</p>
+                  <a href="https://github.com/akshay31057" class="btn btn-primary" style="margin-top: auto"
+>See Profile</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 mb-3 d-flex align-items-stretch justify-content-center" >
+              <div class="card justify-content-center align-items-center">
+                <img src="img/profile/deepak.png" class="card-img-top" alt="Card Image" style="max-height: 250px; max-width: 250px;">
+                <div class="card-body d-flex flex-column" >
+                  <h5 class="card-title">Deepak Bharti</h5>
+                  <p id="member-intro" class="custom-scrollbar-js card-text mb-4 sm-6" style="max-width: 250px; max-height: 200px; overflow-y: auto">CSE MNNIT'22</p>
+                  <a href="https://github.com/dbads" class="btn btn-primary" style="margin-top: auto"
+>See Profile</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 mb-3 d-flex align-items-stretch justify-content-center" >
+              <div class="card justify-content-center align-items-center">
+                <img src="img/profile/mohit.jpg" class="card-img-top" alt="Card Image" style="max-height: 250px; max-width: 250px;">
+                <div class="card-body d-flex flex-column" >
+                  <h5 class="card-title">Mohit Khare</h5>
+                  <p id="member-intro" class="custom-scrollbar-js card-text mb-4 sm-6" style="max-width: 250px; max-height: 200px; overflow-y: auto">CSE @ MNNIT'19 | Computer-Club Coordi | Android | Python</p>
+                  <a href="https://github.com/mkfeuhrer" class="btn btn-primary" style="margin-top: auto"
+>See Profile</a>
+                </div>
+              </div>
+            </div>
     </div>
   </main>
   <!--Main layout-->
@@ -371,7 +437,7 @@ CS Undergraduate at MNNIT Allahabad Former Intern at DE Shaw</p>
               <strong>If you are confused about OpenSource Development and how to get started, then go through the comprehensive guide we have prepared for you guys. If you still have any doubt then feel free to write to us.</strong>
             </p>
 
-            <a target="_blank" href="https://github.com/CC-MNNIT/2018-19-Classes/tree/master/Git_Github" class="btn btn-indigo btn-lg">Getting Started With Git And GitHub
+            <a target="_blank" href="https://github.com/CC-MNNIT/2021-22-Classes/tree/main/Git-GitHub" class="btn btn-indigo btn-lg">Getting Started With Git And GitHub
               <i class="fa fa-graduation-cap ml-2"></i>
             </a>
 
@@ -470,6 +536,8 @@ CS Undergraduate at MNNIT Allahabad Former Intern at DE Shaw</p>
   <!-- SCRIPTS -->
   <!-- JQuery -->
   <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+  <script src="js/jquery-mCustomScrollbar-concat.min.js"></script>
+
   <!-- Bootstrap tooltips -->
   <script type="text/javascript" src="js/popper.min.js"></script>
   <!-- Bootstrap core JavaScript -->
@@ -481,6 +549,17 @@ CS Undergraduate at MNNIT Allahabad Former Intern at DE Shaw</p>
     // Animations initialization
     new WOW().init();
   </script>
+
+  <!-- Custom Scrollbar -->
+  <script type="text/javascript">
+    $(function() {
+      /* Dark Thin */
+      $("member-intro").mCustomScrollbar({
+        theme: "dark-thin"
+      });
+    });
+  </script>
+
 </body>
 
 </html>
