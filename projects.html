@@ -5,19 +5,33 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+  <meta property="og:title" content="ContriHUB" />
+  <meta property="og:url" content="https://contrihub.github.io" />
+  <meta property="og:image" content="https://contrihub.github.io/img/favicon.png" />
+  <meta property="og:description" content="ContriHUB is an Open Source event at Avishkar @MNNIT" />
+  <meta property="og:type" content="website" />
+
+
   <title>ContriHUB</title>
   <!-- Font Awesome -->
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css"
     integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
-  <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"> -->
+  <!-- removed older version of font awsome with newer version 
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">-->
   <link rel="icon" type="image/png" href="img/favicon.png" />
   <link href='https://fonts.googleapis.com/css?family=Cormorant Infant' rel='stylesheet'>
+  <link
+    href="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css"
+    rel='stylesheet'>
+
   <!-- Bootstrap core CSS -->
   <link href="css/bootstrap.min.css" rel="stylesheet">
   <!-- Material Design Bootstrap -->
   <link href="css/mdb.min.css" rel="stylesheet">
   <!-- Your custom styles (optional) -->
   <link href="css/style.min.css" rel="stylesheet">
+
   <style type="text/css">
     html,
     body,
@@ -91,16 +105,13 @@
             <a class="nav-link" href="index.html#ourteam">Our Team</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="projects.html">Projects</a>
+            <a class="nav-link" href="#">Projects</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="index.html#pastorganizers">Past Organizers</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#" target="_blank">Participants</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="http://contrihub21.herokuapp.com/">Submit PR</a>
+            <a class="nav-link" href="https://contrihub21.herokuapp.com/">Submit PR</a>
           </li>
         </ul>
 
@@ -112,7 +123,7 @@
             </a>
           </li>
           <li class="nav-item">
-            <a href="https://github.com/ContriHUB" class="nav-link border border-light rounded">
+            <a href="https://github.com/ContriHUB" class="nav-link border border-light rounded" target="_blank">
               <i class="fab fa-github mr-2"></i>ContriHUB GitHub
             </a>
           </li>
@@ -122,26 +133,51 @@
 
     </div>
   </nav>
+  <!-- Navbar -->
+
+  <!-- Mask & flexbox options-->
 
   <div class="mask rgba-black-light d-flex justify-content-center align-items-center">
-
     <div class="container">
+
       <div class="row justify-content-center" style="margin-top: 100px">
-        <h1 class="display-5 text-white font-weight-bold" style="font-family: Cormorant Infant">Participants
-        </h1>
+        <h1 class="display-5 text-white font-weight-bold" style="font-family: Cormorant Infant">Projects in 2021</h1>
       </div>
 
       <div class="row justify-content-center" style="margin-top: 20px">
 
-        <!-- Add your profile data in this div -->
+        <!-- Add your project data in this div -->
 
-        <div class="col-auto" style="margin-bottom: 75px">
+        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 mb-3 d-flex align-items-stretch justify-content-center"
+          style="margin-bottom: 75px">
           <div class="card" style="width: 300px">
-            <img class="card-img-top" src="img/profile/abhey.png" alt="Card image">
+            <a href="https://github.com/ContriHUB/Upyogaarth" />
             <div class="card-body">
-              <h4 class="card-title">Abhey Rana</h4>
-              <p class="card-text">I am an enthusiastic programmer who loves open source development.</p>
-              <a href="https://github.com/Abhey" class="btn btn-primary">See Profile</a>
+              <h5 class="card-title">Upyogaarth</h5>
+              <p id="member-intro" class="custom-scrollbar-js card-text mb-4 sm-6"
+                style="max-width: 250px; max-height: 200px; overflow-y: auto">A Flutter app</p>
+              <div style="color: grey;">Mentors:</div>
+              <ul>
+                <li><a href="https://contrihub21.herokuapp.com/profile/user/nisiddharth/">Nishchal Siddharth
+                    Pandey</a></li>
+                <li><a href="https://contrihub21.herokuapp.com/profile/user/ashu12chi/">Ashutosh Chitranshi</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 mb-3 d-flex align-items-stretch justify-content-center"
+          style="margin-bottom: 75px">
+          <div class="card" style="width: 300px">
+            <a href="https://github.com/ContriHUB/WithYou" />
+            <div class="card-body">
+              <h5 class="card-title">WithYou</h5>
+              <p id="member-intro" class="custom-scrollbar-js card-text mb-4 sm-6"
+                style="max-width: 250px; max-height: 200px; overflow-y: auto">An Android (Java) app</p>
+              <div style="color: grey;">Mentors:</div>
+              <ul>
+                <li><a href="https://contrihub21.herokuapp.com/profile/user/rjankit/">Ankit Raj</a></li>
+              </ul>
             </div>
           </div>
         </div>
@@ -172,7 +208,7 @@
 
     <!--Copyright-->
     <div class="footer-copyright py-3">
-      © 2018 Copyright:
+      © 2021 Copyright:
       <a href="https://contrihub.github.io" target="_blank"> contrihub.github.io </a>
     </div>
     <!--/.Copyright-->
@@ -180,7 +216,11 @@
   </footer>
   <!--/.Footer-->
 
+  <!-- SCRIPTS -->
+  <!-- JQuery -->
   <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+  <script src="js/jquery-mCustomScrollbar-concat.min.js"></script>
+
   <!-- Bootstrap tooltips -->
   <script type="text/javascript" src="js/popper.min.js"></script>
   <!-- Bootstrap core JavaScript -->
@@ -192,6 +232,17 @@
     // Animations initialization
     new WOW().init();
   </script>
+
+  <!-- Custom Scrollbar -->
+  <script type="text/javascript">
+    $(function () {
+      /* Dark Thin */
+      $("member-intro").mCustomScrollbar({
+        theme: "dark-thin"
+      });
+    });
+  </script>
+
 </body>
 
 </html>
