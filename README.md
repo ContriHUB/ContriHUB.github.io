@@ -46,8 +46,8 @@ We will not be accepting more PR's until the formatting of the current files is 
 
 Here are 2 quick and painless ways to contribute to this project:
 
--   Add your name to the `CONTRIBUTORS.md` file
--   Add your entry to the `participant.html` file
+-   Add your name to the `CONTRIBUTORS.md` file (Required)
+-   Add your entry to the `participant.html` file (Optional)
 
 Choose one or both, make a pull request for your work and wait for it to be merged!
 
@@ -172,7 +172,7 @@ For any query head on to dedicated Gitter Channel - [ContriHUB](https://gitter.i
 
 If you still have more doubts then feel free to ping any of the student co-ordinator.
 
-Coordinators -
+Team-2021 -
 
 -   [Kshitiz Srivastava](https://github.com/pirateksh)
 
