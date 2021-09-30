@@ -174,8 +174,10 @@ If you still have more doubts then feel free to ping any of the student co-ordin
 
 Coordinators -
 
--   [Abhey Rana](https://github.com/Abhey)
+-   [Kshitiz Srivastava](https://github.com/pirateksh)
 
--   [Akshay Sharma](https://github.com/akshay31057)
+-   [Ashutosh Chitranshi](https://github.com/ashu12chi)
 
--   [Deepak Bharti](https://github.com/dbads)
+-   [Nishchal Siddharth Pandey](https://github.com/nisiddharth)
+
+-   [Ankit Sangwan](https://github.com/ankitsangwan1999)   
