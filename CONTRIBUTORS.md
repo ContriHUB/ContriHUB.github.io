@@ -159,3 +159,8 @@
 - Bio: Java Developer and Competitive Programmer
 - GitHub: [Himanshu Purwar](https://github.com/freakybaba)
 
+#### Name: [Sanskar Omar](https://github.com/sanskaromar)
+- Place: Kanpur, Uttar Pradesh, India
+- Bio: Uses terminal to navigate insted of GUI and pretends he is a hacker
+- GitHub: [sanskaromar](https://github.com/sanskaromar)
+
