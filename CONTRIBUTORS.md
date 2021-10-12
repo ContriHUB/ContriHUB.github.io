@@ -159,3 +159,9 @@
 - Bio: Java Developer and Competitive Programmer
 - GitHub: [Himanshu Purwar](https://github.com/freakybaba)
 
+ #### Name: [Pravesh Pandey](https://github.com/pravesh-pandey)
+- Place: Renukoot, Uttar Pradesh, India
+- Bio: Competitive Programmer and web developer
+- GitHub: [Pravesh Pandey](Competitive Programmer)
+
+
